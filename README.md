@@ -1,2 +1,2 @@
 # spring-boot-student
-# This is pring project
+# This is Spring project
