@@ -1,2 +1,5 @@
 # spring-boot-student
-# This is Spring project
+Create a Spring Data Rest project with Swagger implemented
+Swagger to be used to test Rest URL from browser
+Add centralized exception handling for errors
+Implement validations for deserialized json objects
